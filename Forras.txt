@@ -3,12 +3,12 @@ II.
 
 2. feladat:
 
-Egy autó üzemanyag-fogyasztását olyan módon adjuk meg, hogy 100 kilométer távolságú út megtételéhez hány liter benzinre van szüksége. 
+Egy autÃ³ Ã¼zemanyag-fogyasztÃ¡sÃ¡t olyan mÃ³don adjuk meg, hogy 100 kilomÃ³ter tÃ¡volsÃ¡gÃ¡ ï¿½t megtï¿½telï¿½hez hï¿½ny liter benzinre van szï¿½ksï¿½ge. 
 
-Készítsen programot, amely billentyûzetrõl beolvassa egy autó fogyasztását, üzemanyagtartályának ûrtartalmát, valamint a jármû által megteendõ út hosszát, és a fenti adatok alapján megállapítja, hogy kell-e tankolnia az autónak az adott hosszúságú út során amennyiben tele tankkal indult útnak!
+Kï¿½szï¿½tsen programot, amely billentyï¿½zetrï¿½l beolvassa egy autï¿½ fogyasztï¿½sï¿½t, ï¿½zemanyagtartï¿½lyï¿½nak ï¿½rtartalmï¿½t, valamint a jï¿½rmï¿½ ï¿½ltal megteendï¿½ ï¿½t hosszï¿½t, ï¿½s a fenti adatok alapjï¿½n megï¿½llapï¿½tja, hogy kell-e tankolnia az autï¿½nak az adott hosszï¿½sï¿½gï¿½ ï¿½t sorï¿½n amennyiben tele tankkal indult ï¿½tnak!
 
-A program megállapításának megfelelõen írja képernyõre az alábbi mondatok közül a megfelelõt!
-"Az út megtehetõ tankolás nélkül."
-"Az út során tankolni kell!"
+A program megï¿½llapï¿½tï¿½sï¿½nak megfelelï¿½en ï¿½rja kï¿½pernyï¿½re az alï¿½bbi mondatok kï¿½zï¿½l a megfelelï¿½t!
+"Az ï¿½t megtehetï¿½ tankolï¿½s nï¿½lkï¿½l."
+"Az ï¿½t sorï¿½n tankolni kell!"
 
-Megjegyzés: Ha a fogyasztás F és az üzemanyagtartály térfogata V, akkor az autó egy tank benzinnel V*100/F kilométert tesz meg.
+Megjegyzï¿½s: Ha a fogyasztï¿½s F ï¿½s az ï¿½zemanyagtartï¿½ly tï¿½rfogata V, akkor az autï¿½ egy tank benzinnel V*100/F kilomï¿½tert tesz meg.
